@@ -4,7 +4,7 @@ title: Installation
 sidebar_label: Installation
 ---
 
-### Install
+#### Install
 
 With npm:
 
@@ -24,7 +24,7 @@ With Expo CLI:
 npx expo install @react-native-async-storage/async-storage
 ```
 
-### Link
+#### Link
 
 #### Android & iOS
 
